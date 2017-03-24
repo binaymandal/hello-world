@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NeuroDAC.Business.Common.MemberFilter" CodeBehind="MemberFilter.svc.cs" %>
